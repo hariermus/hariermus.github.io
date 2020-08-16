@@ -37,16 +37,13 @@ body {
   background: #fff0dd;
 }
 #nav-list a span {
-  font-size: 1.8em;
+  font-size: 1.2em;
 }
 
 .navbar-collapse{
   background-color: #f0ad4e;
 }
 
-.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid #0000ff;
-}
 .navbar-header button.navbar-toggle {
   clear: both;
   margin-top: -30px;
